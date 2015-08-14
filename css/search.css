@@ -36,7 +36,8 @@ a{
   color: #000;
   text-align: left;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/pencil/tigerpaullung.jpg');
+  background-image:  url('../images/pencil/motherjayvarma.jpg');
+  background-size: 280px auto;
   background-color: rgba(255,255,255,.5);
   background-blend-mode: color;
   border-top-left-radius: 60px;
@@ -80,8 +81,9 @@ a{
   color: #000;
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/photography/zemotion.jpeg');
+  background-size: auto 280px;
   background-color: rgba(255,255,255,.5);
+  background-image: url('../images/pencil/markcrilleycard.jpg');
   background-blend-mode: color;
   border-top-left-radius: 0px;
   border-top-right-radius: 60px;
@@ -124,8 +126,9 @@ a{
   color: #000;
   text-align: left;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/paint/citybythelake.jpeg');
+  background-size: auto 280px;
   background-color: rgba(255,255,255,.5);
+  background-image: url('../images/pencil/someonedrawingapicture.jpg');
   background-blend-mode: color;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
@@ -167,9 +170,10 @@ a{
   color: #000;
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/pastel/waterlilies_susan_avishai_icon.jpeg');
+  
   background-size: auto 270px;
   background-color: rgba(255,255,255,.5);
+  background-image: url('../images/pencil/ileanahuntereye.jpg');
   background-blend-mode: color;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
@@ -244,4 +248,32 @@ a{
 /* .next-button-circle:hover {
 	background: rgba(255,255,255,0.5);
 } */
+
+/* .next-button a {
+  display:block;
+	float:left;
+	width:100%;
+	padding-top:50%;
+  padding-bottom:50%;
+	line-height:1em;
+	margin-top:-0.5em;
+	text-align:center;
+	color:black;
+  font-family:Verdana;
+  font-size:1.2em
+  font-weight:bold;
+  text-decoration:none;
+} */
+
+/* .next-arrow-right { */
+/* 	width: 0;  */
+/* 	height: 0;  */
+/* 	border-top: 40px solid transparent; */
+/* 	border-bottom: 40px solid transparent; */
+/*   margin-top: 150px; */
+/* 	margin-bottom: 100px; */
+/*   display: table-cell;
+  vertical-align: middle; */
+/* 	border-left: 100px solid white; */
+}
 
