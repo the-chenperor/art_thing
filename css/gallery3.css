@@ -26,13 +26,13 @@ a{
   text-decoration: none;
 }
 
-.artwork5{
+.artwork9{
   height: 270px;
   width: 260px;
   color: #000;
   text-align: left;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/abstract/black_and_white.jpg');
+  background-image:  url('../images/renaissance/last_supper.jpeg');
   background-color: rgba(255,255,255,.5);
   background-blend-mode: color;
   border-top-left-radius: 60px;
@@ -58,7 +58,7 @@ a{
   padding-top: 0px;
 }
 
-.artwork5:hover{
+.artwork9:hover{
   margin-right: 20px;
   margin-bottom: 20px;
   top: -40px;
@@ -70,13 +70,13 @@ a{
   border-bottom: 5px solid #000;
 }
 
-.artwork6{
+.artwork10{
   height: 270px;
   width: 260px;
   color: #000;
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/pastel/dancer.jpg');
+  background-image:  url('../images/digital/yuumei.jpg');
   background-color: rgba(255,255,255,.5);
   background-blend-mode: color;
   border-top-left-radius: 0px;
@@ -102,7 +102,7 @@ a{
   padding-top: 0px;
 }
 
-.artwork6:hover{
+.artwork10:hover{
   margin-left: 20px;
   margin-bottom: 20px;
   top: -40px;
@@ -114,13 +114,13 @@ a{
   border-bottom: 5px solid #000;
 }
 
-.artwork7{
+.artwork11{
   height: 270px;
   width: 260px;
   color: #000;
   text-align: left;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/digital/digital-art-cool-hd.jpg');
+  background-image:  url('../images/paint/miyulistar.jpg');
   background-color: rgba(255,255,255,.5);
   background-blend-mode: color;
   border-top-left-radius: 0px;
@@ -145,7 +145,7 @@ a{
   padding-left: 0px;
 }
 
-.artwork7:hover{
+.artwork11:hover{
   margin-right: 20px;
   margin-top: 20px;
   bottom: -40px;
@@ -157,13 +157,13 @@ a{
   border-top: 5px solid #000;
 }
 
-.artwork8{
+.artwork12{
   height: 270px;
   width: 260px;
   color: #000;
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  background-image:  url('../images/renaissance/jewishguy.jpeg');
+  background-image:  url('../images/pastel/leopard.jpeg');
   background-size: auto 270px;
   background-color: rgba(255,255,255,.5);
   background-blend-mode: color;
@@ -189,7 +189,7 @@ a{
   padding-right: 0px;
 }
 
-.artwork8:hover{
+.artwork12:hover{
   margin-left: 20px;
   margin-top: 20px;
   bottom: -40px;

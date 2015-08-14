@@ -224,6 +224,26 @@ a{
 .next-button:hover{
   background: rgba(255,255,255,0.5);
 }
+
+.back-button {
+	width: 10px;
+  height: 10px;
+  border-radius: 7.5px;
+  border: 5px solid #000;
+  position: absolute;
+  top: 266px;
+  left: -55px;
+  background: rgba(0,0,0,0.5);
+  transition: 0.7s ease;
+  -o-transition: 0.7s ease;
+  -moz-transition: 0.7s ease;
+  -webkit-transition: 0.7s ease;
+}
+
+.back-button:hover{
+  background: rgba(255,255,255,0.5);
+}
+
 /* .next-button-circle {
 	width: 18px;
 	height: 18px;
