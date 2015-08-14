@@ -1,0 +1,25 @@
+.content{
+  width: 500px;
+  margin: 200px auto;
+}
+
+.button1{
+  height: 500px;
+  width: 250px;
+  border-top-left-radius: 250px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 250px;
+  border: 1px solid #000;
+}
+
+.button2{
+  height: 500px;
+  width: 250px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 250px;
+  border-bottom-right-radius: 250px;
+  border-bottom-left-radius: 250px;
+  border: 1px solid #000;
+}
+  

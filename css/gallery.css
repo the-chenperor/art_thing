@@ -1,0 +1,275 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+h1{
+  text-align: center;
+/*    font-family: 'Oswald', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 40px;
+  padding-top: 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.display{
+  width: 535px;
+  height: auto;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+/*   padding: 40px 42.5px; */
+  position: relative;
+}
+
+a{
+  text-decoration: none;
+}
+
+.caption1{
+  
+}
+
+.artwork1{
+  height: 270px;
+  width: 260px;
+  color: #000;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+  background-image:  url('../images/pencil/tigerpaullung.jpg');
+  background-color: rgba(255,255,255,.5);
+  background-blend-mode: color;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-left: 5px solid #000;
+  border-right: 2.5px solid #000;
+  border-top: 5px solid #000;
+  border-bottom: 2.5px solid #000;
+  
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  
+  transition: 0.7s ease;
+  -o-transition: 0.7s ease;
+  -moz-transition: 0.7s ease;   
+  -webkit-transition: 0.7s ease;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-left: 0px;
+  padding-top: 0px;
+}
+
+.artwork1:hover{
+  margin-right: 20px;
+  margin-bottom: 20px;
+  top: -40px;
+  left: -40px;
+  padding-left: 20px;
+  padding-top: 20px;
+  background-color: rgba(255,255,255,0);
+  border-right: 5px solid #000;
+  border-bottom: 5px solid #000;
+}
+
+.artwork2{
+  height: 270px;
+  width: 260px;
+  color: #000;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  background-image:  url('../images/photography/zemotion.jpeg');
+  background-color: rgba(255,255,255,.5);
+  background-blend-mode: color;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-left: 2.5px solid #000;
+  border-right: 5px solid #000;
+  border-top: 5px solid #000;
+  border-bottom: 2.5px solid #000;
+  position: absolute;
+  top: 0px;
+  left: 265px;
+  display: inline;
+  
+  transition: 0.7s ease;
+  -o-transition: 0.7s ease;
+  -moz-transition: 0.7s ease;   
+  -webkit-transition: 0.7s ease;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+
+.artwork2:hover{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  top: -40px;
+  right: -40px;
+  padding-right: 20px;
+  padding-top: 20px;
+  background-color: rgba(255,255,255,0);
+  border-left: 5px solid #000;
+  border-bottom: 5px solid #000;
+}
+
+.artwork3{
+  height: 270px;
+  width: 260px;
+  color: #000;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+  background-image:  url('../images/paint/citybythelake.jpeg');
+  background-color: rgba(255,255,255,.5);
+  background-blend-mode: color;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 60px;
+  border-left: 5px solid #000;
+  border-right: 2.5px solid #000;
+  border-top: 2.5px solid #000;
+  border-bottom: 5px solid #000;
+  position: absolute;
+  top: 275px;
+  left: 0px;
+  
+  transition: 0.7s ease;
+  -o-transition: 0.7s ease;
+  -moz-transition: 0.7s ease;   
+  -webkit-transition: 0.7s ease;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+.artwork3:hover{
+  margin-right: 20px;
+  margin-top: 20px;
+  bottom: -40px;
+  left: -40px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  background-color: rgba(255,255,255,0);
+  border-right: 5px solid #000;
+  border-top: 5px solid #000;
+}
+
+.artwork4{
+  height: 270px;
+  width: 260px;
+  color: #000;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  background-image:  url('../images/pastel/waterlilies_susan_avishai_icon.jpeg');
+  background-size: auto 270px;
+  background-color: rgba(255,255,255,.5);
+  background-blend-mode: color;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 60px;
+  border-bottom-left-radius: 0px;
+  border-left: 2.5px solid #000;
+  border-right: 5px solid #000;
+  border-top: 2.5px solid #000;
+  border-bottom: 5px solid #000;
+  position: absolute;
+  left: 265px;
+  top: 275px;
+  
+  transition: 0.7s ease;
+  -o-transition: 0.7s ease;
+  -moz-transition: 0.7s ease;   
+  -webkit-transition: 0.7s ease;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+}
+
+.artwork4:hover{
+  margin-left: 20px;
+  margin-top: 20px;
+  bottom: -40px;
+  right: -40px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  background-color: rgba(255,255,255,0);
+  border-left: 5px solid #000;
+  border-top: 5px solid #000;
+}
+
+/** NEXT BUTTON **/
+.next-button {
+	width: 28px;
+  height: 28px;
+  border-radius: 9px;
+  border: 5px solid #000;
+  position: absolute;
+  top: 266px;
+  right: -40px;
+  background: rgba(0,0,0,0);
+  transition: 0.7s ease;
+  -o-transition: 0.7s ease;
+  -moz-transition: 0.7s ease;
+  -webkit-transition: 0.7s ease;
+}
+
+.next-button:hover{
+  
+}
+/* .next-button-circle {
+	width: 18px;
+	height: 18px;
+	padding-bottom: 100%;
+  border-radius: 50%;
+	border: 5px solid black;
+  overflow: hidden;
+    
+  background: rgba(0,0,0,0); 
+  box-shadow: 0 0 3px gray; 
+  
+  transition: 0.7s ease;
+  -o-transition: 0.7s ease;
+  -moz-transition: 0.7s ease;
+  -webkit-transition: 0.7s ease;
+} */
+
+.next-button-circle:hover {
+	background: rgba(255,255,255,0.5);
+}
+
+/* .next-button a {
+  display:block;
+	float:left;
+	width:100%;
+	padding-top:50%;
+  padding-bottom:50%;
+	line-height:1em;
+	margin-top:-0.5em;
+	text-align:center;
+	color:black;
+  font-family:Verdana;
+  font-size:1.2em
+  font-weight:bold;
+  text-decoration:none;
+} */
+
+.next-arrow-right {
+	width: 0; 
+	height: 0; 
+/* 	border-top: 40px solid transparent; */
+/* 	border-bottom: 40px solid transparent; */
+/*   margin-top: 150px; */
+/* 	margin-bottom: 100px; */
+/*   display: table-cell;
+  vertical-align: middle; */
+/* 	border-left: 100px solid white; */
+}
+
